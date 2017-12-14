@@ -1,0 +1,73 @@
+.monday-div{
+  background-color:rgba(0,0,255,0.3);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  font-size: 50px;
+  color:#fff;
+}
+.monday-button-add{
+  margin-top:100px;
+  height: 55px;
+  width: 70px;
+  margin-left: 77%;
+  position: absolute;
+  background-color: skyblue;
+  font-size:20pt;
+  color:white;
+  border-style:none;
+  border:2px solid white;
+  border-radius:15px;
+}
+.monday-input{
+  margin-top: 100px;
+  height: 40px;
+  width: 250px;
+  margin-left: 10%;
+  position: absolute;
+  background-color: skyblue; 
+  padding:5px;
+  font-size:17pt;
+  border-style:none;
+  border:2px solid white;
+  border-radius:15px;
+  text-align:center;
+}
+.arrows-div{
+
+}
+.arrowtotheright{
+  width:50px;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 2%;
+}
+.arrowtotheleft{
+  width: 50px;
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 85%;
+}
+.myul{
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 17%;
+  text-transform: uppercase;
+}
+.myul li{
+  font-size:15pt;
+}
+.myul li button{
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:1px;
+  padding-bottom: 0px;
+  margin-left:20px;
+  margin-top:0px; 
+  background-color:rgba(0,0,0,0);
+  color:red;
+  border-style:none;
+  font-size:25px;
+}
+
